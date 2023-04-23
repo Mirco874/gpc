@@ -1,0 +1,27 @@
+{
+    "camera_demo": {
+        "name": "",
+        "model": "",
+        "state": "disconnected"
+    },
+    "camera_1": {
+        "name": "j",
+        "model": "camera_1",
+        "state": "connected"
+    },
+    "camera_2": {
+        "name": "",
+        "model": "",
+        "state": "disconnected"
+    },
+    "camera_3": {
+        "name": "",
+        "model": "",
+        "state": "disconnected"
+    },
+    "camera_4": {
+        "name": "",
+        "model": "",
+        "state": "disconnected"
+    }
+}

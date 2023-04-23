@@ -1,0 +1,18 @@
+{
+    "camera_122/06/2022 20:53:30": 
+        {
+            "camera": "camara_1", 
+            "location": "calle Beni", 
+            "timestamp": "22/06/2022 20:53:30", 
+            "detection": "cuchillo ", 
+            "image_name": "calle Beni_22062022_205330.png"
+        }, 
+    "camera_122/06/2022 20:53:44": 
+    {
+        "camera": "camara_1", 
+        "location": "calle Beni", 
+        "timestamp": "22/06/2022 20:53:44", 
+        "detection": "pistola ", 
+        "image_name": "calle Beni_22062022_205344.png"
+    }
+}
